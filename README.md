@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning React Js, Go
 - :desktop_computer: Base programming language PHP, Python, VB.Net, C#
+- 🖥️ MySQL, SQL Server
 - 📫 How to reach me nurulakbarmalik98@gmail.com
 
 <!---
