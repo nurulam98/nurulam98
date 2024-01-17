@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nurulam98
-- 👀 I’m interested in Web Developing
+- 👋 Hi, I’m Nurul Akbar Malik
+- 👀 I’m interested in Web Developing and Backend Developer
 - 🌱 I’m currently learning React Js, Go
 - :desktop_computer: Base programming language PHP, Python, VB.Net, C#
 - 🖥️ MySQL, SQL Server
